@@ -1,0 +1,13 @@
+#img-bg{
+  background: url(../../assets/imgs/img-04.gif);
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-form{
+  background-color: rgb(185, 146, 221);
+}
+.font-bold{
+  font-weight: bolder;
+}
