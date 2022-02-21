@@ -5,3 +5,9 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+.bg-form{
+  background-color: #e6b82f;
+}
+.font-bold{
+  font-weight: bolder;
+}
